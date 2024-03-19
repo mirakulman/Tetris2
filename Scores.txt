@@ -1,0 +1,5 @@
+﻿Mira: 3
+Péter: 1
+Dodó: 1
+József: 4
+Mira: 1
